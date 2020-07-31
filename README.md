@@ -1,4 +1,3 @@
-# hello-world
+# CS201 Assignment
 
-
-heyy i am akshay jain and i am here for some intresting projects
+INDIAN INSTITUTE OF TECHNOLOGY ROPAR
